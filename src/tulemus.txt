@@ -1,0 +1,69 @@
+Ülesanne 9a. Programmi väljund
+=====================================================:
+kodeeritud -> kopidepiepiripitupid
+kodeeritud
+
+luuletuseks -> lupiupilepitupisepiks
+luuletuseks
+
+on -> opin
+on
+
+Juhan Viidingu "Ma olen pannud segast". -> Jupihapin Vipiipidipingu "Ma opilepin papinnupid sepigapist".
+Juhan Viidingu "Ma olen pannud segast".
+
+Lugemine failist:
+Ma olen pannud segast
+Ma opilepin papinnupid sepigapist
+
+ka selget olen pand
+ka sepilgepit opilepin papind
+
+mind peetud on kui segast
+mipind pepiepitupid opin kupii sepigapist
+
+ja antud armuand
+ja apintupid apirmupiapind
+
+ma olen saanud raha
+ma opilepin sapiapinupid rapiha
+
+ja riided söögi toad
+ja ripiipidepid söpiöpigi topiapid
+
+on tihti väga paha
+opin tipihti väpiga papiha
+
+jalg märg või nürid noad
+japilg mäpirg võpii nüpiripid nopiapid
+
+ma kardan sisekorda
+ma kapirdapin sipisepikopirda
+
+ja tolmulappisid
+Rida sisaldab juba pi-d, rida ei kodeerita
+
+ei suuda teha korda
+epii supiupida tepiha kopirda
+
+ka seinakappisid
+Rida sisaldab juba pi-d, rida ei kodeerita
+
+ka kahhelkive seina
+ka kapihhepilkipive sepiipina
+
+ei oska laduda
+epii opiska lapidupida
+
+ma oskan
+ma opiskapin
+
+kasteheina
+kapistepihepiipina
+
+vaid ära kaduda
+vapiipid äpira kapidupida
+
+
+=================================================.
+Erko Olumets              2021-04-26 10:27:16.514
